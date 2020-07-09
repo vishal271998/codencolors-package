@@ -1,0 +1,17 @@
+{
+    "name":"ImageUpload",
+    "description": "",
+
+    "authors": [
+        {
+            "name": "vishal271998",
+            "email": "52848931+vishal271998@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ImageUpload\\": "codencolors/ImageUpload/"
+        }
+    }
+}
